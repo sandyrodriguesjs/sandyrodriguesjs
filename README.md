@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/sandyrodriguesjs)
 
 <div align="center">
-  <a href="https://github.com/sandyrodriguesjs">
+  <a href="![welcome!_page-0001](https://github.com/sandyrodriguesjs/sandyrodriguesjs/assets/122131843/31c0ada3-e6ba-46ee-8357-62ca27cdc7dd)">
     <img src="Welcome.png" width="500">
   </a>
 </div>
