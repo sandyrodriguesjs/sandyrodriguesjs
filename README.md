@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/sandyrodriguesjs">
-    <img src="https://github.com/sandyrodriguesjs/sandyrodriguesjs/assets/122131843/80dc71cf-df74-4cfe-916a-a37651be443d" width="500">
+    <img src="https://github.com/sandyrodriguesjs/sandyrodriguesjs/assets/122131843/741c6c77-d4be-49ed-a743-3680d359395d" width="500">
   </a>
 </div>
 <br>
