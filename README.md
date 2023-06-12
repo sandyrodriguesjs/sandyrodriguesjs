@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <a href="https://github.com/sandyrodriguesjs">
     <img src="https://github.com/sandyrodriguesjs/sandyrodriguesjs/blob/main/welcome-2--unscreen.gif" width="500">
